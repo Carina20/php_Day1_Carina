@@ -15,7 +15,7 @@
 	if ($d=="Mon")
 		echo "Did you have a good start into the week?";
 	else
-		echo "Have a wonderful week!"
+		echo "Enjoy the rest of your day!"
 
 	?>
 
